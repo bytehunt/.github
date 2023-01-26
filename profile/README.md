@@ -1,5 +1,3 @@
-<img align="left" height="170" src="https://raw.githubusercontent.com/BinaryBrainiacs/.github/main/pix/crab.png"/>
-
 ```diff
 [binary@brainiacs ] ⚡ yarsi
 @@ We are BinaryBrainiacs <3 @@
